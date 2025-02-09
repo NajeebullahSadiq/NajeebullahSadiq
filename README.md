@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najeebullahsadiq" alt="najeebullahsadiq" /></a> </p>
 
-- 🔭 I’m currently working on **Suntec project**
+- 🔭 I’m currently working at **MCIT Afghanistan**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter for Mobile App**
 
 - 📫 How to reach me **najeebullahsadiq590@gmail.com**
 
