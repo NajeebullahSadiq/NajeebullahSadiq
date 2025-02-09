@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Flutter for Mobile App**
 
 - 📫 How to reach me **najeebullahsadiq590@gmail.com**
+-  Portfoli **https://najeebullahsadiq.github.io/portfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
